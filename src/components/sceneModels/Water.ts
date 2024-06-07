@@ -9,10 +9,10 @@ export class Water extends ComponentBase {
 
     public async start() {
 
-        let waterBaseMap = await Engine3D.res.loadTexture('texture/Scene_-_Root_baseColor.png');
+        let waterBaseMap = await Engine3D.res.loadTexture('texture/Scene_-_Root_baseColor-min.png');
         let waterNormalMap = await Engine3D.res.loadTexture('texture/water_n.jpg');
 
-        let seabedBaseMap = await Engine3D.res.loadTexture('texture/Concrete026_2K-PNG_Color.png');
+        let seabedBaseMap = await Engine3D.res.loadTexture('texture/Concrete026_2K-PNG_Color-min.png');
         let seabedNormalMap = await Engine3D.res.loadTexture('texture/sandstone_cracks_nor_gl_1k.png');
 
         const water = this.createWater(waterBaseMap, waterNormalMap)
