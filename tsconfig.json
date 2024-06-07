@@ -1,0 +1,26 @@
+{
+  "extends": ["@vue/tsconfig/tsconfig.json", "@tsconfig/node18/tsconfig.json"],
+  "include": [
+    "env.d.ts",
+    "src/**/*",
+    "src/**/*.vue",
+    "vite.config.*",
+    "vitest.config.*",
+    "cypress.config.*",
+    "nightwatch.conf.*",
+    "playwright.config.*"
+  ],
+  "exclude": ["src/**/__tests__/*"],
+  "compilerOptions": {
+    "lib": ["es2015", "dom"],
+    "composite": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "types": ["vite/client", "@webgpu/types", "node"],
+    "strictNullChecks": false,
+    "module": "ESNext",
+    "moduleResolution": "Bundler"
+  }
+}

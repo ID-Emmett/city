@@ -1,0 +1,2102 @@
+[
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_ALand.001",
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 100.0,
+      "height": 0.0,
+      "depth": 100.0
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.001",
+    "position": {
+      "x": 0.0,
+      "y": 3.22544,
+      "z": 47.89109
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.25,
+      "height": 3.0,
+      "depth": 0.25
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.002",
+    "position": {
+      "x": 0.0,
+      "y": 3.22544,
+      "z": -55.96309
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.25,
+      "height": 3.0,
+      "depth": 0.25
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.003",
+    "position": {
+      "x": 74.99721,
+      "y": 3.22544,
+      "z": -0.01782
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.3,
+      "height": 3.0,
+      "depth": 0.3
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.004",
+    "position": {
+      "x": -33.43727,
+      "y": 3.22544,
+      "z": -0.01782
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.3,
+      "height": 3.0,
+      "depth": 0.3
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.005",
+    "position": {
+      "x": 55.07159,
+      "y": 3.91624,
+      "z": -18.5013
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.3,
+      "height": 3.63659,
+      "depth": 0.3
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.006",
+    "position": {
+      "x": 55.07159,
+      "y": 3.91624,
+      "z": 18.49487
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.3,
+      "height": 3.63659,
+      "depth": 0.3
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.007",
+    "position": {
+      "x": -55.00803,
+      "y": 3.91624,
+      "z": 18.49487
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.3,
+      "height": 3.63659,
+      "depth": 0.3
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.008",
+    "position": {
+      "x": -55.00803,
+      "y": 3.91624,
+      "z": -18.5013
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.3,
+      "height": 3.63659,
+      "depth": 0.3
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.009",
+    "position": {
+      "x": -91.42968,
+      "y": 3.91624,
+      "z": 26.49453
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.3,
+      "height": 3.63659,
+      "depth": 0.3
+    }
+  },
+  {
+    "type": "Circle",
+    "name": "Z_Area_2-4_Circle.010",
+    "position": {
+      "x": 88.50345,
+      "y": 3.91624,
+      "z": -30.02725
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.3,
+      "height": 3.63659,
+      "depth": 0.3
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.001",
+    "position": {
+      "x": -0.00459,
+      "y": 0.19893,
+      "z": 40.46328
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 19.58431
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.002",
+    "position": {
+      "x": -0.00459,
+      "y": 0.19893,
+      "z": 91.5358
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 11.484625
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.003",
+    "position": {
+      "x": 18.48359,
+      "y": 0.19893,
+      "z": 39.9799
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 23.00946
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.004",
+    "position": {
+      "x": -18.50485,
+      "y": 0.19893,
+      "z": 39.9799
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 23.00946
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.005",
+    "position": {
+      "x": -45.04409,
+      "y": 0.19646,
+      "z": 61.5111
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 24.99163,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.006",
+    "position": {
+      "x": -71.54846,
+      "y": 0.19893,
+      "z": 39.9799
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 23.00946
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.007",
+    "position": {
+      "x": -45.04409,
+      "y": 0.19646,
+      "z": 18.5128
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 24.99163,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.008",
+    "position": {
+      "x": -45.51893,
+      "y": 0.19646,
+      "z": 0.00758
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 24.447065,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.009",
+    "position": {
+      "x": -45.04409,
+      "y": 0.19646,
+      "z": -18.49259
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 24.99163,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.010",
+    "position": {
+      "x": -71.50594,
+      "y": 0.19893,
+      "z": -34.99362
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 17.97645
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.011",
+    "position": {
+      "x": -45.0258,
+      "y": 0.19646,
+      "z": -48.48091
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 24.995615,
+      "height": 0.0,
+      "depth": 4.485605
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.012",
+    "position": {
+      "x": -18.4906,
+      "y": 0.19893,
+      "z": -34.99362
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 17.97645
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.013",
+    "position": {
+      "x": 0.00112,
+      "y": 0.19893,
+      "z": -60.47216
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 39.416545
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.014",
+    "position": {
+      "x": -18.50485,
+      "y": 0.19893,
+      "z": 90.10579
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 13.124905
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.015",
+    "position": {
+      "x": -60.06443,
+      "y": 0.19646,
+      "z": 78.5122
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 39.95091,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.016",
+    "position": {
+      "x": -94.98483,
+      "y": 0.19646,
+      "z": 60.00191
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 7.969415,
+      "height": 0.0,
+      "depth": 2.97892
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.017",
+    "position": {
+      "x": -90.00629,
+      "y": 0.19893,
+      "z": 36.97374
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 2.99174,
+      "height": 0.0,
+      "depth": 20.006025
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.018",
+    "position": {
+      "x": 60.50571,
+      "y": 0.19646,
+      "z": 0.00758
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 39.408205,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.019",
+    "position": {
+      "x": 46.49503,
+      "y": 0.19646,
+      "z": 18.48637
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 26.43133,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.020",
+    "position": {
+      "x": 46.49503,
+      "y": 0.19646,
+      "z": 61.46842
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 26.43133,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.021",
+    "position": {
+      "x": 71.50464,
+      "y": 0.19893,
+      "z": 39.98525
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 19.91293
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.022",
+    "position": {
+      "x": 88.49981,
+      "y": 0.19893,
+      "z": 39.98525
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 20.15284
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.023",
+    "position": {
+      "x": -88.49925,
+      "y": 0.19893,
+      "z": -43.43417
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 26.46107
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.024",
+    "position": {
+      "x": -53.46899,
+      "y": 0.19646,
+      "z": -68.51141
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 33.426715,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.025",
+    "position": {
+      "x": 45.01276,
+      "y": 0.19646,
+      "z": -18.50802
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 24.88834,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.026",
+    "position": {
+      "x": 18.49599,
+      "y": 0.19893,
+      "z": -58.52242
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 41.526665
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.027",
+    "position": {
+      "x": 18.49599,
+      "y": 0.19893,
+      "z": -58.52242
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 41.526665
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.028",
+    "position": {
+      "x": -18.50227,
+      "y": 0.19893,
+      "z": -89.94482
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 23.04742
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.029",
+    "position": {
+      "x": 93.70106,
+      "y": 0.19646,
+      "z": -33.53117
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 3.796795,
+      "height": 0.0,
+      "depth": 16.538535
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.030",
+    "position": {
+      "x": 71.4716,
+      "y": 0.19893,
+      "z": -58.52242
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 41.526665
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.031",
+    "position": {
+      "x": 88.51941,
+      "y": 0.19893,
+      "z": -58.52242
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 41.526665
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.032",
+    "position": {
+      "x": 18.51601,
+      "y": 0.19893,
+      "z": 90.10579
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.49874,
+      "height": 0.0,
+      "depth": 13.124905
+    }
+  },
+  {
+    "type": "Plane",
+    "name": "Z_Area_2-4_Plane.033",
+    "position": {
+      "x": 60.10943,
+      "y": 0.19646,
+      "z": 78.49763
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 39.9986,
+      "height": 0.0,
+      "depth": 1.5
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.001",
+    "position": {
+      "x": -57.4358,
+      "y": 8.43086,
+      "z": 53.73446
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 10.348675,
+      "height": 8.1166,
+      "depth": 4.761295
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.002",
+    "position": {
+      "x": -32.84796,
+      "y": 12.42957,
+      "z": 40.14247
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 10.83513,
+      "height": 9.03417,
+      "depth": 18.522415
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.003",
+    "position": {
+      "x": -57.68392,
+      "y": 5.58481,
+      "z": 29.38064
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 9.577525,
+      "height": 5.20239,
+      "depth": 7.84126
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.004",
+    "position": {
+      "x": -68.16528,
+      "y": 5.63235,
+      "z": 30.27457
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.92176,
+      "height": 5.37601,
+      "depth": 3.57782
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.005",
+    "position": {
+      "x": 33.50575,
+      "y": 12.42957,
+      "z": 40.14247
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 10.83513,
+      "height": 9.03417,
+      "depth": 18.522415
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.006",
+    "position": {
+      "x": 56.56161,
+      "y": 6.93125,
+      "z": 53.73446
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 10.753695,
+      "height": 6.694795,
+      "depth": 4.84785
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.007",
+    "position": {
+      "x": 62.32135,
+      "y": 4.8553,
+      "z": 33.22581
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 6.034845,
+      "height": 4.646145,
+      "depth": 11.993265
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.008",
+    "position": {
+      "x": -55.87117,
+      "y": 8.43086,
+      "z": -33.75757
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 10.72344,
+      "height": 8.1166,
+      "depth": 7.181135
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.009",
+    "position": {
+      "x": -55.87117,
+      "y": 8.43086,
+      "z": -24.64344
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 3.209325,
+      "height": 8.1166,
+      "depth": 1.492695
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.010",
+    "position": {
+      "x": -27.98316,
+      "y": 4.91984,
+      "z": -37.71053
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 6.366115,
+      "height": 4.76897,
+      "depth": 9.559685
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.011",
+    "position": {
+      "x": -46.59973,
+      "y": 0.90893,
+      "z": 21.06762
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.379765,
+      "height": 0.761455,
+      "depth": 0.97618
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.012",
+    "position": {
+      "x": 47.94625,
+      "y": 0.89353,
+      "z": -21.13273
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 3.102165,
+      "height": 0.758575,
+      "depth": 0.97618
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.013",
+    "position": {
+      "x": 45.14577,
+      "y": 5.40732,
+      "z": -61.46031
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 23.419485,
+      "height": 5.0,
+      "depth": 38.5
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.014",
+    "position": {
+      "x": 100.5347,
+      "y": 5.40732,
+      "z": -64.32454
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 6.890335,
+      "height": 5.34284,
+      "depth": 8.684665
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.015",
+    "position": {
+      "x": -64.12571,
+      "y": 5.40732,
+      "z": -90.26108
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 43.171585,
+      "height": 5.0,
+      "depth": 18.4308
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.016",
+    "position": {
+      "x": 91.61659,
+      "y": 0.90893,
+      "z": 21.06762
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.367405,
+      "height": 0.761455,
+      "depth": 0.94286
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.017",
+    "position": {
+      "x": -101.96743,
+      "y": 6.56106,
+      "z": -54.47614
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 7.19188,
+      "height": 6.125905,
+      "depth": 18.05727
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.018",
+    "position": {
+      "x": -83.20211,
+      "y": 4.75349,
+      "z": 94.31177
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 12.24295,
+      "height": 4.75,
+      "depth": 5.9305
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.019",
+    "position": {
+      "x": 100.41664,
+      "y": 5.40732,
+      "z": -54.84523
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 3.456625,
+      "height": 5.34284,
+      "depth": 0.926335
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.020",
+    "position": {
+      "x": -91.74677,
+      "y": 3.23158,
+      "z": -51.55818
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.255465,
+      "height": 3.234945,
+      "depth": 0.621285
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.021",
+    "position": {
+      "x": -27.98316,
+      "y": 1.13682,
+      "z": -26.3517
+    },
+    "rotation": {
+      "w": 0.85429,
+      "x": -0.5198,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 2.447415,
+      "height": 2.491985,
+      "depth": 0.51441
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.022",
+    "position": {
+      "x": -93.06522,
+      "y": 6.56106,
+      "z": -38.68236
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.147305,
+      "height": 6.125905,
+      "depth": 2.238655
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.023",
+    "position": {
+      "x": -93.06522,
+      "y": 6.56106,
+      "z": -70.43427
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.147305,
+      "height": 6.125905,
+      "depth": 2.238655
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.024",
+    "position": {
+      "x": -17.42953,
+      "y": 0.68746,
+      "z": -18.71417
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.025",
+    "position": {
+      "x": -17.42953,
+      "y": 0.68746,
+      "z": -50.91109
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.026",
+    "position": {
+      "x": -17.42953,
+      "y": 0.68746,
+      "z": -68.78585
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.027",
+    "position": {
+      "x": -70.35898,
+      "y": 0.68746,
+      "z": -52.41605
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.028",
+    "position": {
+      "x": -71.1895,
+      "y": 0.68746,
+      "z": -17.74186
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.029",
+    "position": {
+      "x": 19.52239,
+      "y": 0.68746,
+      "z": -17.47232
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.030",
+    "position": {
+      "x": 71.51451,
+      "y": 0.68746,
+      "z": -17.73342
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.031",
+    "position": {
+      "x": 71.51451,
+      "y": 0.68746,
+      "z": 17.59534
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.032",
+    "position": {
+      "x": 19.50698,
+      "y": 0.68746,
+      "z": 17.59534
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.15,
+      "height": 0.465435,
+      "depth": 0.15
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.033",
+    "position": {
+      "x": 55.07526,
+      "y": 4.1375,
+      "z": 0.00053
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.258465,
+      "height": 3.802725,
+      "depth": 0.7697
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.034",
+    "position": {
+      "x": 55.09992,
+      "y": 8.93245,
+      "z": 0.01182
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.05,
+      "height": 1.37224,
+      "depth": 18.572555
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.035",
+    "position": {
+      "x": -54.97969,
+      "y": 8.93245,
+      "z": 0.01182
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.05,
+      "height": 1.37224,
+      "depth": 18.572555
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.036",
+    "position": {
+      "x": -55.00435,
+      "y": 4.1375,
+      "z": 0.00053
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.258465,
+      "height": 3.802725,
+      "depth": 0.7697
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.037",
+    "position": {
+      "x": 17.33445,
+      "y": 3.15864,
+      "z": 17.3539
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.1,
+      "height": 2.889085,
+      "depth": 0.1
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.038",
+    "position": {
+      "x": 17.33445,
+      "y": 3.15864,
+      "z": -17.38178
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.1,
+      "height": 2.889085,
+      "depth": 0.1
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.039",
+    "position": {
+      "x": -17.36423,
+      "y": 3.15864,
+      "z": -17.38178
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.1,
+      "height": 2.889085,
+      "depth": 0.1
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.040",
+    "position": {
+      "x": -17.38367,
+      "y": 3.15864,
+      "z": 17.34469
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.1,
+      "height": 2.889085,
+      "depth": 0.1
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.041",
+    "position": {
+      "x": 21.43414,
+      "y": 1.82182,
+      "z": 82.67258
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.05,
+      "height": 1.68349,
+      "depth": 0.05
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.042",
+    "position": {
+      "x": 25.42573,
+      "y": 1.82182,
+      "z": 82.67258
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.05,
+      "height": 1.68349,
+      "depth": 0.05
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.043",
+    "position": {
+      "x": -25.68839,
+      "y": 1.82182,
+      "z": 82.67258
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.05,
+      "height": 1.68349,
+      "depth": 0.05
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.044",
+    "position": {
+      "x": -21.65949,
+      "y": 1.82182,
+      "z": 82.67258
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.05,
+      "height": 1.68349,
+      "depth": 0.05
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.045",
+    "position": {
+      "x": 93.91737,
+      "y": 3.54659,
+      "z": -24.48425
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.4,
+      "height": 3.15131,
+      "depth": 0.4
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.046",
+    "position": {
+      "x": 93.91737,
+      "y": 3.54659,
+      "z": -31.81188
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.4,
+      "height": 3.15131,
+      "depth": 0.4
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.047",
+    "position": {
+      "x": 93.91737,
+      "y": 3.54659,
+      "z": -39.54689
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.4,
+      "height": 3.15131,
+      "depth": 0.4
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.048",
+    "position": {
+      "x": 93.91737,
+      "y": 3.54659,
+      "z": -46.86336
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.4,
+      "height": 3.15131,
+      "depth": 0.4
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.049",
+    "position": {
+      "x": 92.64388,
+      "y": 5.40732,
+      "z": -66.9632
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.92528,
+      "height": 5.34284,
+      "depth": 6.101265
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.050",
+    "position": {
+      "x": -38.92257,
+      "y": 3.54659,
+      "z": -23.82317
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.4,
+      "height": 3.15131,
+      "depth": 0.4
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.051",
+    "position": {
+      "x": -38.92257,
+      "y": 3.54659,
+      "z": -31.24959
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.4,
+      "height": 3.15131,
+      "depth": 0.4
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.052",
+    "position": {
+      "x": -38.92257,
+      "y": 3.54659,
+      "z": -39.00371
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.4,
+      "height": 3.15131,
+      "depth": 0.4
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.053",
+    "position": {
+      "x": -38.92257,
+      "y": 3.54659,
+      "z": -46.29932
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.4,
+      "height": 3.15131,
+      "depth": 0.4
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.054",
+    "position": {
+      "x": 101.25683,
+      "y": 5.40732,
+      "z": -73.97713
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 6.06481,
+      "height": 5.34284,
+      "depth": 0.87738
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.055",
+    "position": {
+      "x": 99.6376,
+      "y": 6.66219,
+      "z": -88.46749
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 5.09611,
+      "height": 6.340505,
+      "depth": 8.684665
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.056",
+    "position": {
+      "x": 93.15665,
+      "y": 6.23089,
+      "z": -93.66075
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.39486,
+      "height": 6.79034,
+      "depth": 3.45738
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.057",
+    "position": {
+      "x": 106.03712,
+      "y": 6.23089,
+      "z": -83.20527
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 1.39486,
+      "height": 6.79034,
+      "depth": 3.45738
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.058",
+    "position": {
+      "x": -91.74677,
+      "y": 3.23158,
+      "z": -57.45351
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.255465,
+      "height": 3.234945,
+      "depth": 0.621285
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.059",
+    "position": {
+      "x": -93.02463,
+      "y": 0.34498,
+      "z": -54.50509
+    },
+    "rotation": {
+      "w": 0.9919,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.127
+    },
+    "size": {
+      "width": 1.71963,
+      "height": 0.494065,
+      "depth": 3.801255
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.060",
+    "position": {
+      "x": -17.99162,
+      "y": 3.46056,
+      "z": 100.99458
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.276505,
+      "height": 3.120325,
+      "depth": 0.190155
+    }
+  },
+  {
+    "type": "Solid",
+    "name": "Z_Area_2-4_Solid.061",
+    "position": {
+      "x": -0.50609,
+      "y": 1.42048,
+      "z": 100.99458
+    },
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "size": {
+      "width": 0.276505,
+      "height": 1.177755,
+      "depth": 0.190155
+    }
+  }
+]
