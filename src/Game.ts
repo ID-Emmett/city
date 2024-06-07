@@ -1,7 +1,7 @@
 import { View3D, Engine3D, Scene3D, CameraUtil, Object3D, DirectLight, KelvinUtil, Vector3, PostProcessingComponent, DepthOfFieldPost, Camera3D, SkyRenderer, TAAPost, Time, GTAOPost, HoverCameraController } from '@orillusion/core'
 import { Ammo, Physics, Rigidbody } from '@orillusion/physics';
 import { Stats } from "@orillusion/stats"
-import { SceneModels, Water } from '@/components/sceneModels'
+import { SceneModels } from '@/components/sceneModels'
 import * as dat from 'dat.gui';
 
 Engine3D.setting.shadow.shadowSize = 1024 * 4;
@@ -32,12 +32,12 @@ class Game {
         this.scene.addComponent(Stats);
 
         let textureCube = await Engine3D.res.loadTextureCubeMaps([
-            'sky/nx.jpg',
             'sky/px.jpg',
+            'sky/nx.jpg',
             'sky/py.jpg',
             'sky/ny.jpg',
-            'sky/nz.jpg',
             'sky/pz.jpg',
+            'sky/nz.jpg',
         ])
         let sky = this.scene.addComponent(SkyRenderer);
         sky.map = textureCube;
@@ -81,8 +81,6 @@ class Game {
     }
 
     initGameComponents(gui: any) {
-        // 水面
-        this.scene.addComponent(Water);
 
         // 场景模型
         let sceneModel = this.scene.addComponent(SceneModels);

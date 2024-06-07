@@ -15,15 +15,15 @@ export class Water extends ComponentBase {
         let seabedBaseMap = await Engine3D.res.loadTexture('texture/Concrete026_2K-PNG_Color.png');
         let seabedNormalMap = await Engine3D.res.loadTexture('texture/sandstone_cracks_nor_gl_1k.png');
 
-        const seabed = await this.createSeabed(seabedBaseMap, seabedNormalMap)
-        const water = await this.createWater(waterBaseMap, waterNormalMap)
+        const water = this.createWater(waterBaseMap, waterNormalMap)
+        const seabed = this.createSeabed(seabedBaseMap, seabedNormalMap)
 
-        this.object3D.addChild(water)
         this.object3D.addChild(seabed)
+        this.object3D.addChild(water)
     }
 
     // 水面
-    private async createWater(waterBaseMap: Texture, waterNormalMap: Texture): Promise<Object3D> {
+    private createWater(waterBaseMap: Texture, waterNormalMap: Texture) {
 
         let water = new Object3D()
         water.name = 'water'
@@ -63,7 +63,7 @@ export class Water extends ComponentBase {
     }
 
     // 水底
-    private async createSeabed(seabedBaseMap: Texture, seabedNormalMap: Texture): Promise<Object3D> {
+    private createSeabed(seabedBaseMap: Texture, seabedNormalMap: Texture) {
 
         let seabed = new Object3D()
         seabed.name = 'seabed'

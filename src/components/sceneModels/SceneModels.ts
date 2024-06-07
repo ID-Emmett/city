@@ -3,6 +3,7 @@ import { VehicleControl } from '@/components/keyboardController'
 import { City_RegionManage } from '@/components/spaceZoning/CityRegionManage';
 import { AI_CarsManage } from '@/components/aiCarsManage/index';
 import { RigidBodyUtil } from '@/utils/RigidBodyUtil'
+import { Water } from './Water';
 
 export class SceneModels extends ComponentBase {
 
@@ -26,6 +27,9 @@ export class SceneModels extends ComponentBase {
         dynamicBodyBase.name = 'dynamicBodyBase'
         dynamicBodyBase.y = -100
         this.scene.addChild(dynamicBodyBase);
+
+        // 水面
+        this.scene.addComponent(Water);
 
         this.scene.data = { playerInfo: { playerObjdect3D: this.vehicle } }
 
